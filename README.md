@@ -1,2 +1,7 @@
 # Prediction-of-Phishing-Websites-Using-Tensorflow-Project
-Moringa School Machine Learning Module Project
+In recent years, phishing has become increasingly complex, frequent, and unfortunately successful. It is very difficult to determine if a website URL is actually legitimate or not, hence this project seeks to address fake URLs and domain names through the identification of phishing website links before the user actually clicks on the link for access. This is being designed to allow all users to be able to check for the legitimacy of a URL which will hopefully in turn, reduce security risks to individuals and organizations at large.
+
+
+With the presence of numerous websites on the World Wide Web, there have been several fraudulent websites that have been developed to resemble reputable websites. The main intention behind the forged websites is to trick the victims by requesting them to submit personal information such as their credit card numbers, passwords, etc., leading to the loss of financial assets from users and organizations that has cost the stakeholders so many financial resources. According to the third Microsoft Computing Safer Index Report, released in February 2014, the annual worldwide impact of phishing could be as high as $5 billion.
+
+With the information above we seek to identify robust countermeasures through Machine Learning and neural networks that can point out phishing sites through their URL detection, thus justifying the need to conduct this study.
